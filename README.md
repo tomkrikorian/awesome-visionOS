@@ -23,6 +23,7 @@
 ## Libraries
 ### SwiftUI
 - [Glur](https://github.com/joogps/Glur) A SwiftUI library that uses Metal to display efficient progressive blurs, just like the ones used by Apple.
+- [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) SwiftUI code editor view for iOS, visionOS, and macOS.
 ### Maps
 - [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) 
 ## Apps & Samples
