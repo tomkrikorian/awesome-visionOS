@@ -1,5 +1,3 @@
-# Learn visionOS
-
 ## Communities
 - [visionOS Developer Group on LinkedIn](https://www.linkedin.com/groups/12922559/)
 - [/r/VisionPro](https://www.reddit.com/r/VisionPro/)
