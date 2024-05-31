@@ -31,8 +31,11 @@
 - [KSPlayer](https://github.com/kingslay/KSPlayer) A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
 ### Maps
 - [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) 
-## Apps & Samples
+## Projects
+### Apps
 - [PersonaChess](https://github.com/FlipByBlink/PersonaChess) Chess game with SharePlay support.
+- [ALVR](https://github.com/alvr-org/alvr-visionos) Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
+### Examples
 - [Terrain](https://github.com/MatthewWaller/Terrain) A small example of procedurally generating terrain using RealityKit.
 - [visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) Examples implementing various visionOS features using ARKit, RealityKit, and SwiftUI through daily projects.
 - [visionOS-examples](https://github.com/IvanCampos/visionOS-examples) Examples implementing various visionOS features
