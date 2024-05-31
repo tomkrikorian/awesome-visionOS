@@ -42,4 +42,5 @@
 ### Examples
 - [Terrain](https://github.com/MatthewWaller/Terrain) A small example of procedurally generating terrain using RealityKit.
 - [visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) Examples implementing various visionOS features using ARKit, RealityKit, and SwiftUI through daily projects.
-- [visionOS-examples](https://github.com/IvanCampos/visionOS-examples) Examples implementing various visionOS features
+- [visionOS-examples](https://github.com/IvanCampos/visionOS-examples) Examples implementing various visionOS features.
+- [Immersive Video Player Sample](https://github.com/morin-innovation/immersive-video-player-sample) Immersive Video Player Sample.
