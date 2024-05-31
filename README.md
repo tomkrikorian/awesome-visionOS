@@ -45,3 +45,4 @@
 - [visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) Examples implementing various visionOS features using ARKit, RealityKit, and SwiftUI through daily projects.
 - [visionOS-examples](https://github.com/IvanCampos/visionOS-examples) Examples implementing various visionOS features.
 - [Immersive Video Player Sample](https://github.com/morin-innovation/immersive-video-player-sample) Immersive Video Player Sample.
+- [SpatialPlayer](https://github.com/mikeswanson/SpatialPlayer) An example spatial/immersive MV-HEVC video player for Apple Vision Pro
