@@ -25,6 +25,8 @@
 - [Glur](https://github.com/joogps/Glur) A SwiftUI library that uses Metal to display efficient progressive blurs, just like the ones used by Apple.
 - [SwiftUI Shimmer](https://github.com/markiv/SwiftUI-Shimmer) Shimmer is a super-light modifier that adds a shimmering effect to any SwiftUI View, for example, to show that an operation is in progress.
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) SwiftUI code editor view for iOS, visionOS, and macOS.
+### Video
+- [KSPlayer](https://github.com/kingslay/KSPlayer) A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
 ### Maps
 - [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) 
 ## Apps & Samples
