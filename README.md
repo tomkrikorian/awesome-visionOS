@@ -39,6 +39,7 @@
 ## Projects
 ### Apps
 - [PersonaChess](https://github.com/FlipByBlink/PersonaChess) Chess game with SharePlay support.
+- [HandsRuler](https://github.com/FlipByBlink/HandsRuler) Measure app by hand tracking for Apple Vision Pro.
 - [ALVR](https://github.com/alvr-org/alvr-visionos) Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
 ### Examples
 - [Terrain](https://github.com/MatthewWaller/Terrain) A small example of procedurally generating terrain using RealityKit.
