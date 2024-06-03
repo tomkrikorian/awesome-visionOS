@@ -31,7 +31,7 @@
 ### Video
 - [KSPlayer](https://github.com/kingslay/KSPlayer) A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
 ### Maps
-- [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) 
+- [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) The Mapbox Maps SDK is a library for embedding highly customized maps.
 
 ## Tools
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
