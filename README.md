@@ -39,7 +39,7 @@
 
 ## Gists
 - [View+WindowGeometryPreferences.swift](https://gist.github.com/drewolbrich/03460fc1bb71b9a821fff722f17ec977) A visionOS SwiftUI view modifier that can be used to hide a window's resize handles or to constrain a window's aspect ratio.
-
+- [ScaledVolumeContentView.swift](https://gist.github.com/drewolbrich/ca4802c43e6e226e9cdd95a9e52118b3) An example of how to make visionOS volumes work correctly with Settings > Display > Appearance > Window Zoom.
 ## Projects
 ### Apps
 - [PersonaChess](https://github.com/FlipByBlink/PersonaChess) Chess game with SharePlay support.
