@@ -27,6 +27,7 @@
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) SwiftUI code editor view for iOS, visionOS, and macOS.
 ### RealityKit
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) A collection of additional geometries ready for use in RealityKit 2+. 🥽 Vision OS/Vision Pro ready.
+- [GoncharKit](https://github.com/gonchar/GoncharKit) RealityKit helper functions for visionOS.
 - [PlanePlopper](https://github.com/daniloc/PlanePlopper) Easy API for Vision Pro persistent immersive object placement.
 ### Video
 - [KSPlayer](https://github.com/kingslay/KSPlayer) A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
