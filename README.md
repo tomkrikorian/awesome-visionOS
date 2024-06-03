@@ -37,6 +37,9 @@
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
 - [Spatial](https://blog.mikeswanson.com/spatial/) Spatial is a free macOS command-line tool to process MV-HEVC video files (currently produced by iPhone 15 Pro and Apple Vision Pro) and spatial photos.
 
+## Gists
+- [View+WindowGeometryPreferences.swift](https://gist.github.com/drewolbrich/03460fc1bb71b9a821fff722f17ec977) A visionOS SwiftUI view modifier that can be used to hide a window's resize handles or to constrain a window's aspect ratio.
+
 ## Projects
 ### Apps
 - [PersonaChess](https://github.com/FlipByBlink/PersonaChess) Chess game with SharePlay support.
