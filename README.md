@@ -52,3 +52,5 @@
 - [Immersive Video Player Sample](https://github.com/morin-innovation/immersive-video-player-sample) Immersive Video Player Sample.
 - [SpatialPlayer](https://github.com/mikeswanson/SpatialPlayer) An example spatial/immersive MV-HEVC video player for Apple Vision Pro
 - [metal-spatial-rendering](https://github.com/metal-by-example/metal-spatial-rendering) A minimal example of rendering a fully immersive spatial experience with Metal, ARKit, and visionOS Compositing Services.
+- [SpatialMetal](https://github.com/musesum/SpatialMetal) VisionOS metal with swift refactored from FullyImmersiveMetal.
+- [SpatialMetal2](https://github.com/musesum/SpatialMetal2) SpatialMetal extended for multiple shaders.
