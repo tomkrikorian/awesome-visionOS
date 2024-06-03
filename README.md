@@ -51,3 +51,4 @@
 - [visionOS-examples](https://github.com/IvanCampos/visionOS-examples) Examples implementing various visionOS features.
 - [Immersive Video Player Sample](https://github.com/morin-innovation/immersive-video-player-sample) Immersive Video Player Sample.
 - [SpatialPlayer](https://github.com/mikeswanson/SpatialPlayer) An example spatial/immersive MV-HEVC video player for Apple Vision Pro
+- [metal-spatial-rendering](https://github.com/metal-by-example/metal-spatial-rendering) A minimal example of rendering a fully immersive spatial experience with Metal, ARKit, and visionOS Compositing Services.
