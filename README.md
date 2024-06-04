@@ -1,11 +1,26 @@
-## Communities
+# Table of Contents
+- [Communities](#communities)
+- [From Apple](#from-apple)
+  * [Samples](#samples)
+- [Libraries](#libraries)
+  * [SwiftUI](#swiftui)
+  * [RealityKit](#realitykit)
+  * [Video](#video)
+  * [Maps](#maps)
+- [Tools](#tools)
+- [Gists](#gists)
+- [Projects](#projects)
+  * [Apps](#apps)
+  * [Examples](#examples)
+
+# Communities
 - [visionOS Developer Group on LinkedIn](https://www.linkedin.com/groups/12922559/)
 - [/r/VisionPro](https://www.reddit.com/r/VisionPro/)
 - [Vision Pro Discord](https://discord.com/invite/yRJmAhAQvX)
 - [Apple Vision Pro Community on X](https://x.com/i/communities/1745863162396557748/)
 
-## From Apple 
-### Samples 
+# From Apple 
+## Samples 
 - [Hello World](https://developer.apple.com/documentation/visionos/world) Use windows, volumes, and immersive spaces to teach people about the Earth.
 - [Destination Video](https://developer.apple.com/documentation/visionos/destination-video) Leverage 3D video and Spatial Audio to deliver an immersive experience.
 - [Happy Beam](https://developer.apple.com/documentation/visionos/happybeam) Leverage a Full Space to create a fun game using ARKit.
@@ -20,33 +35,33 @@
 - [Construct an immersive environment for visionOS](https://developer.apple.com/documentation/realitykit/construct-an-immersive-environment-for-visionos) Build efficient custom worlds for your app.
 - [Transforming RealityKit entities using gestures](https://developer.apple.com/documentation/realitykit/transforming-realitykit-entities-with-gestures) Build a RealityKit component to support standard visionOS gestures on any entity.
 
-## Libraries
-### SwiftUI
+# Libraries
+## SwiftUI
 - [Glur](https://github.com/joogps/Glur) A SwiftUI library that uses Metal to display efficient progressive blurs, just like the ones used by Apple.
 - [SwiftUI Shimmer](https://github.com/markiv/SwiftUI-Shimmer) Shimmer is a super-light modifier that adds a shimmering effect to any SwiftUI View, for example, to show that an operation is in progress.
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) SwiftUI code editor view for iOS, visionOS, and macOS.
-### RealityKit
+## RealityKit
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) A collection of additional geometries ready for use in RealityKit 2+. 🥽 Vision OS/Vision Pro ready.
 - [GoncharKit](https://github.com/gonchar/GoncharKit) RealityKit helper functions for visionOS.
 - [PlanePlopper](https://github.com/daniloc/PlanePlopper) Easy API for Vision Pro persistent immersive object placement.
-### Video
+## Video
 - [KSPlayer](https://github.com/kingslay/KSPlayer) A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
-### Maps
+## Maps
 - [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) The Mapbox Maps SDK is a library for embedding highly customized maps.
 
-## Tools
+# Tools
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
 - [Spatial](https://blog.mikeswanson.com/spatial/) Spatial is a free macOS command-line tool to process MV-HEVC video files (currently produced by iPhone 15 Pro and Apple Vision Pro) and spatial photos.
 
-## Gists
+# Gists
 - [View+WindowGeometryPreferences.swift](https://gist.github.com/drewolbrich/03460fc1bb71b9a821fff722f17ec977) A visionOS SwiftUI view modifier that can be used to hide a window's resize handles or to constrain a window's aspect ratio.
 - [ScaledVolumeContentView.swift](https://gist.github.com/drewolbrich/ca4802c43e6e226e9cdd95a9e52118b3) An example of how to make visionOS volumes work correctly with Settings > Display > Appearance > Window Zoom.
-## Projects
-### Apps
+# Projects
+## Apps
 - [PersonaChess](https://github.com/FlipByBlink/PersonaChess) Chess game with SharePlay support.
 - [HandsRuler](https://github.com/FlipByBlink/HandsRuler) Measure app by hand tracking for Apple Vision Pro.
 - [ALVR](https://github.com/alvr-org/alvr-visionos) Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
-### Examples
+## Examples
 - [Terrain](https://github.com/MatthewWaller/Terrain) A small example of procedurally generating terrain using RealityKit.
 - [visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) Examples implementing various visionOS features using ARKit, RealityKit, and SwiftUI through daily projects.
 - [visionOS-examples](https://github.com/IvanCampos/visionOS-examples) Examples implementing various visionOS features.
