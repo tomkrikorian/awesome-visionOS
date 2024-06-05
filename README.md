@@ -35,6 +35,8 @@
 - [Construct an immersive environment for visionOS](https://developer.apple.com/documentation/realitykit/construct-an-immersive-environment-for-visionos) Build efficient custom worlds for your app.
 - [Transforming RealityKit entities using gestures](https://developer.apple.com/documentation/realitykit/transforming-realitykit-entities-with-gestures) Build a RealityKit component to support standard visionOS gestures on any entity.
 - [Simulating physics with collisions in your visionOS app](https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app) Create entities that behave and react like physical objects in a RealityKit view.
+- [Simulating particles in your visionOS app](https://developer.apple.com/documentation/realitykit/simulating-particles-in-your-visionos-app) Add a range of visual effects to a RealityKit view by attaching a particle emitter component to an entity.
+
 
 # Libraries
 ## SwiftUI
