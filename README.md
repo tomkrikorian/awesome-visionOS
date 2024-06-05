@@ -73,3 +73,4 @@
 - [SpatialMetal2](https://github.com/musesum/SpatialMetal2) SpatialMetal extended for multiple shaders.
 - [VisionProVacuumDemo](https://github.com/gonchar/VisionProVacuumDemo) Demo project which showcases how to work with Apple Vision Pro and RealityKit, ARKit APIs.
 - [HandTrackingSandbox](https://github.com/kentvchr/HandTrackingSandbox) Use of ARKit and RealityKit frameworks to make a playful sandbox, where physical environment can interact with generated virtual content.
+- [Agora Quickstart](https://github.com/AgoraIO-Community/visionOS-Quickstart) Basic video call with visionOS for Apple Vision Pro. Using Agora RTC SDK.
