@@ -45,8 +45,9 @@
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) A collection of additional geometries ready for use in RealityKit 2+. 🥽 Vision OS/Vision Pro ready.
 - [GoncharKit](https://github.com/gonchar/GoncharKit) RealityKit helper functions for visionOS.
 - [PlanePlopper](https://github.com/daniloc/PlanePlopper) Easy API for Vision Pro persistent immersive object placement.
-## Video
+## Audio & Video
 - [KSPlayer](https://github.com/kingslay/KSPlayer) A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
+- [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) Camera and Microphone streaming library via RTMP and SRT.
 ## Maps
 - [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) The Mapbox Maps SDK is a library for embedding highly customized maps.
 
