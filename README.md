@@ -50,6 +50,8 @@
 - [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) Camera and Microphone streaming library via RTMP and SRT.
 ## Maps
 - [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) The Mapbox Maps SDK is a library for embedding highly customized maps.
+## IAP
+- [RevenueCat Purchases](https://github.com/RevenueCat/purchases-ios) In-app purchases and subscriptions made easy.
 
 # Tools
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
