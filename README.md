@@ -34,6 +34,7 @@
 - [Converting side-by-side 3D video to multiview HEVC](https://developer.apple.com/documentation/avfoundation/media_reading_and_writing/converting_side-by-side_3d_video_to_multiview_hevc) Create video content for visionOS by converting an existing 3D HEVC file to a multiview HEVC format.
 - [Construct an immersive environment for visionOS](https://developer.apple.com/documentation/realitykit/construct-an-immersive-environment-for-visionos) Build efficient custom worlds for your app.
 - [Transforming RealityKit entities using gestures](https://developer.apple.com/documentation/realitykit/transforming-realitykit-entities-with-gestures) Build a RealityKit component to support standard visionOS gestures on any entity.
+- [Simulating physics with collisions in your visionOS app](https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app) Create entities that behave and react like physical objects in a RealityKit view.
 
 # Libraries
 ## SwiftUI
