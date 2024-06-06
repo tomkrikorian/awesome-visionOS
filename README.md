@@ -11,6 +11,7 @@
   * [Maps](#maps)
   * [IAP](#iap)
   * [Database](#database)
+  * [AI](#ai)
 - [Tools](#tools)
 - [Gists](#gists)
 - [Projects](#projects)
@@ -84,6 +85,8 @@
 - [RevenueCat Purchases](https://github.com/RevenueCat/purchases-ios) In-app purchases and subscriptions made easy.
 ## Database
 - [Firebase](https://github.com/firebase/firebase-ios-sdk) Firebase SDK for Apple App Development.
+## AI
+- [MLX](https://github.com/ml-explore/mlx-swift) Swift API for MLX, An array framework for Apple silicon.
 
 # Tools
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
@@ -111,3 +114,4 @@
 - [Agora Quickstart](https://github.com/AgoraIO-Community/visionOS-Quickstart) Basic video call with visionOS for Apple Vision Pro. Using Agora RTC SDK.
 - [SceneVisualizer](https://github.com/agg23/SceneVisualizer) A simple example to visualize the LIDAR information received by Vision Pro.
 - [HandVector](https://github.com/XanderXu/HandVector) HandVector uses Cosine Similarity Algorithm to calculate the similarity of hand gestures.
+- [MLX & Mistral](https://github.com/morin-innovation/mlx-swift-examples/tree/visionos-support) Example of using MLX Swift & Mistral.
