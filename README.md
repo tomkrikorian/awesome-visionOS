@@ -1,5 +1,8 @@
 # Table of Contents
 - [Communities](#communities)
+- [AI Tools](#ai-tools)
+  * [GPTs](#gpts)
+  * [Code Completion](#code-completion)
 - [From Apple](#from-apple)
   * [WWDC](#wwdc)
     + [2023](#2023)
@@ -23,6 +26,16 @@
 - [/r/VisionPro](https://www.reddit.com/r/VisionPro/)
 - [Vision Pro Discord](https://discord.com/invite/yRJmAhAQvX)
 - [Apple Vision Pro Community on X](https://x.com/i/communities/1745863162396557748/)
+
+# AI Tools
+## GPTs
+- [Ask Vision OS](https://chatgpt.com/g/g-kiQkZwZMF-ask-vision-os) Built to assist with building apps, this gpt is equipped with resources on VisionPro and VisionOS.
+- [iOS & visionOS App Builder](https://chatgpt.com/g/g-Cw3y7bSRO-ios-visionos-app-builder) Expert Swift coder for iOS, iPadOS, and visionOS apps. GPT has been loaded with visionOS & RealityKit documentation.
+- [visionOS Dev](https://chatgpt.com/g/g-GbfBtRzZo-visionos-dev) Apple Vision Pro App Generator.
+- [VisionOS Developer](https://chatgpt.com/g/g-N6cjeP6IK-visionos-developer) VisionOS and Apple Vision Pro assistant and project generator, trained with the latest knowledge and docs. Write clean code and become a much faster developer.
+## Code Completion
+- [CopilotForXcode
+](https://github.com/intitni/CopilotForXcode) The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension.
 
 # From Apple 
 ## WWDC
