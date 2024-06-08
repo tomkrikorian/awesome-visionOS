@@ -1,5 +1,6 @@
 # Table of Contents
 - [Communities](#communities)
+- [Online Courses](#online-courses)
 - [AI Tools](#ai-tools)
   * [GPTs](#gpts)
   * [Code Completion](#code-completion)
