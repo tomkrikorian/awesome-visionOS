@@ -27,6 +27,10 @@
 - [Vision Pro Discord](https://discord.com/invite/yRJmAhAQvX)
 - [Apple Vision Pro Community on X](https://x.com/i/communities/1745863162396557748/)
 
+# Online Courses
+- [Apple Vision Pro Master Class](https://xrbootcamp.com/apple-vision-pro-masterclass/) Learn to create Vision Pro Apps with Swift.
+- [Become a visionOS Specialist](https://www.kodeco.com/ios/programs/visionos-specialist) Craft groundbreaking 3D experiences for the future of visionOS.
+
 # AI Tools
 ## GPTs
 - [Ask Vision OS](https://chatgpt.com/g/g-kiQkZwZMF-ask-vision-os) Built to assist with building apps, this gpt is equipped with resources on VisionPro and VisionOS.
