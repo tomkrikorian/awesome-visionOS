@@ -106,6 +106,7 @@
 - [Visualizing HealthKit State of Mind in visionOS](https://developer.apple.com/documentation/healthkit/visualizing_healthkit_state_of_mind_in_visionos) Learn how to incorporate HealthKit State of Mind into your app and visualize the data in visionOS.
 - [Customizing spatial Persona templates](https://developer.apple.com/documentation/groupactivities/customizing-spatial-persona-templates) Arrange spatial Personas in a team-based guessing game.
 - [Creating a data visualization dashboard with Swift Charts](https://developer.apple.com/documentation/charts/creating-a-data-visualization-dashboard-with-swift-charts) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
+- [Enhancing your app’s content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
 
 # Libraries
 ## SwiftUI
