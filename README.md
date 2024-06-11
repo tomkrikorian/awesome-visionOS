@@ -160,3 +160,4 @@
 - [SceneVisualizer](https://github.com/agg23/SceneVisualizer) A simple example to visualize the LIDAR information received by Vision Pro.
 - [HandVector](https://github.com/XanderXu/HandVector) HandVector uses Cosine Similarity Algorithm to calculate the similarity of hand gestures.
 - [MLX & Mistral](https://github.com/morin-innovation/mlx-swift-examples/tree/visionos-support) Example of using MLX Swift & Mistral.
+- [metal-spatial-dynamic-mesh](https://github.com/metal-by-example/metal-spatial-dynamic-mesh) A demonstration of RealityKit's LowLevelMesh API.
