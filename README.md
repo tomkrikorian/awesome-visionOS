@@ -39,8 +39,7 @@
 - [visionOS Dev](https://chatgpt.com/g/g-GbfBtRzZo-visionos-dev) Apple Vision Pro App Generator.
 - [VisionOS Developer](https://chatgpt.com/g/g-N6cjeP6IK-visionos-developer) VisionOS and Apple Vision Pro assistant and project generator, trained with the latest knowledge and docs. Write clean code and become a much faster developer.
 ## Code Completion
-- [CopilotForXcode
-](https://github.com/intitni/CopilotForXcode) The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension.
+- [CopilotForXcode](https://github.com/intitni/CopilotForXcode) The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension.
 
 # From Apple 
 ## WWDC
@@ -105,6 +104,7 @@
 - [Rendering a windowed game in stereo](https://developer.apple.com/documentation/realitykit/rendering-a-windowed-game-in-stereo) Bring an iOS or iPadOS game to visionOS and enhance it.
 - [Building local experiences with room tracking](https://developer.apple.com/documentation/arkit/arkit_in_visionos/building_local_experiences_with_room_tracking) Use room tracking in visionOS to provide custom interactions with physical spaces.
 - [Visualizing HealthKit State of Mind in visionOS](https://developer.apple.com/documentation/healthkit/visualizing_healthkit_state_of_mind_in_visionos) Learn how to incorporate HealthKit State of Mind into your app and visualize the data in visionOS.
+- [Customizing spatial Persona templates](https://developer.apple.com/documentation/groupactivities/customizing-spatial-persona-templates) Arrange spatial Personas in a team-based guessing game.
 
 # Libraries
 ## SwiftUI
