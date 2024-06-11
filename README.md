@@ -107,6 +107,7 @@
 - [Customizing spatial Persona templates](https://developer.apple.com/documentation/groupactivities/customizing-spatial-persona-templates) Arrange spatial Personas in a team-based guessing game.
 - [Creating a data visualization dashboard with Swift Charts](https://developer.apple.com/documentation/charts/creating-a-data-visualization-dashboard-with-swift-charts) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
 - [Enhancing your app’s content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
+- [Creating tabletop games](https://developer.apple.com/documentation/tabletopkit/tabletopkitsample) Develop a spatial board game where multiple players interact with pieces on a table.
 
 # Libraries
 ## SwiftUI
