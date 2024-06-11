@@ -66,6 +66,17 @@
 - [Explore enhancements to RoomPlan](https://developer.apple.com/videos/play/wwdc2023/10192/)
 - [Meet Object Capture for iOS](https://developer.apple.com/videos/play/wwdc2023/10191/)
 
+### 2024
+- [Build compelling spatial photo and video experiences](https://developer.apple.com/videos/play/wwdc2024-10166)
+- [Compose interactive 3D content in Reality Composer Pro](https://developer.apple.com/videos/play/wwdc2024-10102)
+- [Create enhanced spatial computing experiences with ARKit](https://developer.apple.com/videos/play/wwdc2024-10100)
+- [Design great visionOS apps](https://developer.apple.com/videos/play/wwdc2024-10086)
+- [Discover RealityKit APIs for iOS, macOS and visionOS](https://developer.apple.com/videos/play/wwdc2024-10103)
+- [Enhance your spatial computing app with RealityKit audio](https://developer.apple.com/videos/play/wwdc2024-111801)
+- [Explore multiview video playback in visionOS](https://developer.apple.com/videos/play/wwdc2024-10116)
+- [Explore object tracking for visionOS](https://developer.apple.com/videos/play/wwdc2024-10101)
+- [Introducing enterprise APIs for visionOS](https://developer.apple.com/videos/play/wwdc2024-10139)
+
 ## Samples 
 - [Hello World](https://developer.apple.com/documentation/visionos/world) Use windows, volumes, and immersive spaces to teach people about the Earth.
 - [Destination Video](https://developer.apple.com/documentation/visionos/destination-video) Leverage 3D video and Spatial Audio to deliver an immersive experience.
