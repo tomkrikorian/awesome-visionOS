@@ -89,6 +89,8 @@
 - [Composing interactive 3D content with RealityKit and Reality Composer Pro](https://developer.apple.com/documentation/realitykit/composing-interactive-3d-content-with-realitykit-and-reality-composer-pro) Build an interactive scene using an animation timeline.
 - [Presenting an artist’s scene](https://developer.apple.com/documentation/realitykit/presenting-an-artists-scene) Display a scene from Reality Composer Pro in visionOS.
 - [Creating a spatial drawing app with RealityKit](https://developer.apple.com/documentation/realitykit/creating-a-spatial-drawing-app-with-realitykit) Use low-level mesh and texture APIs to achieve fast updates to a person’s brush strokes by integrating RealityKit with ARKit and SwiftUI.
+- [Combining 2D and 3D views in an immersive app](https://developer.apple.com/documentation/realitykit/combining-2d-and-3d-views-in-an-immersive-app) Use attachments to place 2D content relative to 3D content in an immersive space.
+- [Creating a Spaceship game](https://developer.apple.com/documentation/realitykit/creating-a-spaceship-game) Build an immersive game using RealityKit audio, simulation, and rendering features.
 
 # Libraries
 ## SwiftUI
