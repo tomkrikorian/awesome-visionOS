@@ -84,6 +84,7 @@
 - [Simulating particles in your visionOS app](https://developer.apple.com/documentation/realitykit/simulating-particles-in-your-visionos-app) Add a range of visual effects to a RealityKit view by attaching a particle emitter component to an entity.
 - [BOT-anist](https://developer.apple.com/documentation/visionOS/BOT-anist) Build a multiplatform app that uses windows, volumes, and animations to create a robot botanist’s greenhouse.
 - [Building an immersive media viewing experience](https://developer.apple.com/documentation/visionos/building-an-immersive-media-viewing-experience) Add a deeper level of immersion to media playback in your app with RealityKit and Reality Composer Pro.
+- [Enabling video reflections in an immersive environment](https://developer.apple.com/documentation/visionos/enabling-video-reflections-in-an-immersive-environment) Create a more immersive experience by adding video reflections in a custom environment.
 
 # Libraries
 ## SwiftUI
