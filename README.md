@@ -91,6 +91,8 @@
 - [Creating a spatial drawing app with RealityKit](https://developer.apple.com/documentation/realitykit/creating-a-spatial-drawing-app-with-realitykit) Use low-level mesh and texture APIs to achieve fast updates to a person’s brush strokes by integrating RealityKit with ARKit and SwiftUI.
 - [Combining 2D and 3D views in an immersive app](https://developer.apple.com/documentation/realitykit/combining-2d-and-3d-views-in-an-immersive-app) Use attachments to place 2D content relative to 3D content in an immersive space.
 - [Creating a Spaceship game](https://developer.apple.com/documentation/realitykit/creating-a-spaceship-game) Build an immersive game using RealityKit audio, simulation, and rendering features.
+- [Rendering a windowed game in stereo](https://developer.apple.com/documentation/realitykit/rendering-a-windowed-game-in-stereo) Bring an iOS or iPadOS game to visionOS and enhance it.
+- [Building local experiences with room tracking](https://developer.apple.com/documentation/arkit/arkit_in_visionos/building_local_experiences_with_room_tracking) Use room tracking in visionOS to provide custom interactions with physical spaces.
 
 # Libraries
 ## SwiftUI
