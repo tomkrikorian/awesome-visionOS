@@ -86,6 +86,9 @@
 - [Building an immersive media viewing experience](https://developer.apple.com/documentation/visionos/building-an-immersive-media-viewing-experience) Add a deeper level of immersion to media playback in your app with RealityKit and Reality Composer Pro.
 - [Enabling video reflections in an immersive environment](https://developer.apple.com/documentation/visionos/enabling-video-reflections-in-an-immersive-environment) Create a more immersive experience by adding video reflections in a custom environment.
 - [Exploring object tracking with ARKit](https://developer.apple.com/documentation/visionos/exploring_object_tracking_with_arkit) Find and track real-world objects in visionOS using reference objects trained with Create ML.
+- [Composing interactive 3D content with RealityKit and Reality Composer Pro](https://developer.apple.com/documentation/realitykit/composing-interactive-3d-content-with-realitykit-and-reality-composer-pro) Build an interactive scene using an animation timeline.
+- [Presenting an artist’s scene](https://developer.apple.com/documentation/realitykit/presenting-an-artists-scene) Display a scene from Reality Composer Pro in visionOS.
+- [Creating a spatial drawing app with RealityKit](https://developer.apple.com/documentation/realitykit/creating-a-spatial-drawing-app-with-realitykit) Use low-level mesh and texture APIs to achieve fast updates to a person’s brush strokes by integrating RealityKit with ARKit and SwiftUI.
 
 # Libraries
 ## SwiftUI
