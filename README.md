@@ -34,7 +34,8 @@
 
 # AI Tools
 ## GPTs
-- [Ask Vision OS](https://chatgpt.com/g/g-kiQkZwZMF-ask-vision-os) Built to assist with building apps, this gpt is equipped with resources on VisionPro and VisionOS.
+- [visionOS Assist](https://chatgpt.com/g/g-gqbgzzw40-visionos-assist) visionOS Assist provides you with up-to-date answers to your questions about visionOS 2 development.
+- [VisionOS Copilot](https://chatgpt.com/g/g-kiQkZwZMF-visionos-copilot) Built to assist with building apps, this gpt is equipped with resources on VisionPro and VisionOS.
 - [iOS & visionOS App Builder](https://chatgpt.com/g/g-Cw3y7bSRO-ios-visionos-app-builder) Expert Swift coder for iOS, iPadOS, and visionOS apps. GPT has been loaded with visionOS & RealityKit documentation.
 - [visionOS Dev](https://chatgpt.com/g/g-GbfBtRzZo-visionos-dev) Apple Vision Pro App Generator.
 - [VisionOS Developer](https://chatgpt.com/g/g-N6cjeP6IK-visionos-developer) VisionOS and Apple Vision Pro assistant and project generator, trained with the latest knowledge and docs. Write clean code and become a much faster developer.
