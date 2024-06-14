@@ -122,6 +122,8 @@
 - [PlanePlopper](https://github.com/daniloc/PlanePlopper) Easy API for Vision Pro persistent immersive object placement.
 ## ShaderGraph
 - [ShaderGraphCoder](https://github.com/praeclarum/ShaderGraphCoder) Write RealityKit shaders using Swift.
+## Metal
+- [swifty-creatives](https://github.com/yukiny0811/swifty-creatives) Creative coding framework for Swift. Built on Apple's Metal. Inspired by Processing. Supports visionOS.
 ## Media
 - [KSPlayer](https://github.com/kingslay/KSPlayer) A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles.
 - [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) Camera and Microphone streaming library via RTMP and SRT.
