@@ -164,3 +164,4 @@
 - [MLX & Mistral](https://github.com/morin-innovation/mlx-swift-examples/tree/visionos-support) Example of using MLX Swift & Mistral.
 - [metal-spatial-dynamic-mesh](https://github.com/metal-by-example/metal-spatial-dynamic-mesh) A demonstration of RealityKit's LowLevelMesh API.
 - [Settings-visionOS](https://github.com/zhrispineda/Settings-visionOS) SwiftUI recreation of the visionOS Settings app.
+- [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) Very simple AR app in visionOS, that shows the climate spiral, which is known as a way to visualize global surface temperature change.
