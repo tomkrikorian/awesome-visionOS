@@ -24,6 +24,8 @@
 - [Projects](#projects)
   * [Apps](#apps)
   * [Examples](#examples)
+- [Articles](#articles)
+  * [Media](#media-1)
 
 # Communities
 - [visionOS Developer Group on LinkedIn](https://www.linkedin.com/groups/12922559/)
