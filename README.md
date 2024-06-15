@@ -134,6 +134,7 @@
 - [Mapbox](https://docs.mapbox.com/ios/maps/api/11.2.0-beta.1/documentation/mapboxmaps/work-with-visionos/) The Mapbox Maps SDK is a library for embedding highly customized maps.
 ## IAP
 - [RevenueCat Purchases](https://github.com/RevenueCat/purchases-ios) In-app purchases and subscriptions made easy.
+- [Flare](https://github.com/space-code/flare) In-app purchases and subscriptions made easy.
 ## Database
 - [Firebase](https://github.com/firebase/firebase-ios-sdk) Firebase SDK for Apple App Development.
 ## AI
