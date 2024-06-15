@@ -171,3 +171,7 @@
 - [metal-spatial-dynamic-mesh](https://github.com/metal-by-example/metal-spatial-dynamic-mesh) A demonstration of RealityKit's LowLevelMesh API.
 - [Settings-visionOS](https://github.com/zhrispineda/Settings-visionOS) SwiftUI recreation of the visionOS Settings app.
 - [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) Very simple AR app in visionOS, that shows the climate spiral, which is known as a way to visualize global surface temperature change.
+
+# Articles
+## Media
+- [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58) Immersive Video: Which camera is right?
