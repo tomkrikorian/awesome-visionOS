@@ -176,4 +176,4 @@
 
 # Articles
 ## Media
-- [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58) Immersive Video: Which camera is right?
+- [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58)
