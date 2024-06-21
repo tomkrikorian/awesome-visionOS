@@ -142,7 +142,6 @@
 - [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) SwiftUI code editor view for iOS, visionOS, and macOS.
 - [DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) DSWaveformImage offers a native interfaces for drawing the envelope waveform of audio data.
 - [EmojiKit](https://github.com/Kankoda/EmojiKit) EmojiKit is a Swift SDK that lets you use emojis on all major Apple platforms.
-- [MockingKit](https://github.com/danielsaidi/MockingKit) MockingKit is a Swift SDK that lets you easily mock protocols and classes.
 ## RealityKit
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) A collection of additional geometries ready for use in RealityKit 2+. 🥽 Vision OS/Vision Pro ready.
 - [GoncharKit](https://github.com/gonchar/GoncharKit) RealityKit helper functions for visionOS.
@@ -164,6 +163,8 @@
 ## AI
 - [MLX](https://github.com/ml-explore/mlx-swift) Swift API for MLX, An array framework for Apple silicon.
 - [LLM.swift](https://github.com/eastriverlee/LLM.swift) LLM.swift is a simple and readable library that allows you to interact with large language models locally with ease.
+## Testing
+- [MockingKit](https://github.com/danielsaidi/MockingKit) MockingKit is a Swift SDK that lets you easily mock protocols and classes.
 # Tools
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
 - [Spatial](https://blog.mikeswanson.com/spatial/) Spatial is a free macOS command-line tool to process MV-HEVC video files (currently produced by iPhone 15 Pro and Apple Vision Pro) and spatial photos.
