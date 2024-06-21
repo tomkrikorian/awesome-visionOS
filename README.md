@@ -19,6 +19,7 @@
   * [IAP](#iap)
   * [Database](#database)
   * [AI](#ai)
+  * [Testing](#testing)
 - [Tools](#tools)
 - [Gists](#gists)
 - [Projects](#projects)
