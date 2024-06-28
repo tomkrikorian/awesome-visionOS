@@ -175,6 +175,7 @@
 - [ScaledVolumeContentView.swift](https://gist.github.com/drewolbrich/ca4802c43e6e226e9cdd95a9e52118b3) An example of how to make visionOS volumes work correctly with Settings > Display > Appearance > Window Zoom.
 - [Extension+ModelComponent.swift](https://gist.github.com/ynagatomo/282486fd5ea71ac455bfe952c851cf04) An extension of ModelComponent, to dump its MeshResource.Model such as positions and normals.
 - [BubbleRealityView.swift](https://gist.github.com/Matt54/850540e5610a22e5bd161cf66fdae8fb) A floating bubble (morphing transparent sphere) RealityView created from a LowLevelMesh.
+- [GradientTextureSphereView.swift](https://gist.github.com/Matt54/42565f55f958ccc21f1bee617be9c2f6) LowLevelMesh Sphere with programatically generated gradient texture.
 # Projects
 ## Apps
 - [PersonaChess](https://github.com/FlipByBlink/PersonaChess) Chess game with SharePlay support.
