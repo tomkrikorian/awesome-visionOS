@@ -12,6 +12,7 @@
 - [Libraries](#libraries)
   * [SwiftUI](#swiftui)
   * [RealityKit](#realitykit)
+  * [ARKit](#arkit)
   * [ShaderGraph](#shadergraph)
   * [Metal](#metal)
   * [Media](#media)
@@ -147,6 +148,8 @@
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) A collection of additional geometries ready for use in RealityKit 2+. 🥽 Vision OS/Vision Pro ready.
 - [GoncharKit](https://github.com/gonchar/GoncharKit) RealityKit helper functions for visionOS.
 - [PlanePlopper](https://github.com/daniloc/PlanePlopper) Easy API for Vision Pro persistent immersive object placement.
+## ARKit
+- [FindSurface](https://github.com/CurvSurf/FindSurface-visionOS) FindSurface is a software library that extracts 3D geometric information from point cloud data.
 ## ShaderGraph
 - [ShaderGraphCoder](https://github.com/praeclarum/ShaderGraphCoder) Write RealityKit shaders using Swift.
 ## Metal
