@@ -202,6 +202,7 @@
 - [metal-spatial-dynamic-mesh](https://github.com/metal-by-example/metal-spatial-dynamic-mesh) A demonstration of RealityKit's LowLevelMesh API.
 - [Settings-visionOS](https://github.com/zhrispineda/Settings-visionOS) SwiftUI recreation of the visionOS Settings app.
 - [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) Very simple AR app in visionOS, that shows the climate spiral, which is known as a way to visualize global surface temperature change.
+- [Procedural Generation](https://github.com/GabrielWeinbrenner/Procedural-Sandbox/tree/main) Utilizing Metal Meshbuffers to create procedurally generated meshes
 
 # Articles
 ## Media
