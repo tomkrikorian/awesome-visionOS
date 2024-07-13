@@ -21,6 +21,7 @@
   * [Database](#database)
   * [AI](#ai)
   * [Testing](#testing)
+  * [Auth](#auth)
 - [Tools](#tools)
 - [Gists](#gists)
 - [Projects](#projects)
@@ -170,6 +171,9 @@
 - [LLM.swift](https://github.com/eastriverlee/LLM.swift) LLM.swift is a simple and readable library that allows you to interact with large language models locally with ease.
 ## Testing
 - [MockingKit](https://github.com/danielsaidi/MockingKit) MockingKit is a Swift SDK that lets you easily mock protocols and classes.
+## Auth
+- [OAuthKit](https://github.com/codefiesta/OAuthKit) A Swift Package for OAuth 2.0.
+
 # Tools
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
 - [Spatial](https://blog.mikeswanson.com/spatial/) Spatial is a free macOS command-line tool to process MV-HEVC video files (currently produced by iPhone 15 Pro and Apple Vision Pro) and spatial photos.
