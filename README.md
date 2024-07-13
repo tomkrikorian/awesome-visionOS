@@ -204,7 +204,7 @@
 - [Settings-visionOS](https://github.com/zhrispineda/Settings-visionOS) SwiftUI recreation of the visionOS Settings app.
 - [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) Very simple AR app in visionOS, that shows the climate spiral, which is known as a way to visualize global surface temperature change.
 - [VisionOS2SampleVolumeOrnaments](https://github.com/tokufxug/VisionOS2SampleVolumeOrnaments) Sample to show how to use ornaments with Volumes.
-
+- [VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes) A collection of interactive prototypes for VisionOS made with SwiftUI.
 # Articles
 ## Media
 - [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58)
