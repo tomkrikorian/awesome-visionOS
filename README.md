@@ -211,6 +211,7 @@
 - [Procedural Generation](https://github.com/GabrielWeinbrenner/Procedural-Sandbox/tree/main) Utilizing Metal Meshbuffers to create procedurally generated meshes
 - [VisionOS2SampleVolumeOrnaments](https://github.com/tokufxug/VisionOS2SampleVolumeOrnaments) Sample to show how to use ornaments with Volumes.
 - [VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes) A collection of interactive prototypes for VisionOS made with SwiftUI.
+- [HoudiniMeshSync](https://github.com/xjorma/HoudiniMeshSync) Sync mesh between Houdini and the Apple Vision Pro.
 # Articles
 ## Media
 - [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58)
