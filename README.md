@@ -169,6 +169,7 @@
 ## AI
 - [MLX](https://github.com/ml-explore/mlx-swift) Swift API for MLX, An array framework for Apple silicon.
 - [LLM.swift](https://github.com/eastriverlee/LLM.swift) LLM.swift is a simple and readable library that allows you to interact with large language models locally with ease.
+- [WhisperKit](https://github.com/argmaxinc/WhisperKit) On-device Speech Recognition for Apple Silicon.
 ## Testing
 - [MockingKit](https://github.com/danielsaidi/MockingKit) MockingKit is a Swift SDK that lets you easily mock protocols and classes.
 ## Auth
