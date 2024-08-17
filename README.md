@@ -1,5 +1,6 @@
 # Table of Contents
 - [Communities](#communities)
+- [Newsletters](#newsletter)
 - [Online Courses](#online-courses)
 - [AI Tools](#ai-tools)
   * [GPTs](#gpts)
@@ -35,6 +36,9 @@
 - [/r/VisionPro](https://www.reddit.com/r/VisionPro/)
 - [Vision Pro Discord](https://discord.com/invite/yRJmAhAQvX)
 - [Apple Vision Pro Community on X](https://x.com/i/communities/1745863162396557748/)
+
+# Newsletters
+- [visionOS fan](https://visionos.fan)
 
 # Online Courses
 - [Apple Vision Pro Master Class](https://xrbootcamp.com/apple-vision-pro-masterclass/) Learn to create Vision Pro Apps with Swift.
