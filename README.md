@@ -141,7 +141,7 @@
 - [Creating a data visualization dashboard with Swift Charts](https://developer.apple.com/documentation/charts/creating-a-data-visualization-dashboard-with-swift-charts) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
 - [Enhancing your app’s content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
 - [Creating tabletop games](https://developer.apple.com/documentation/tabletopkit/tabletopkitsample) Develop a spatial board game where multiple players interact with pieces on a table.
-
+- [SpatialEffectsVideoPlayer](https://github.com/satoshi0212/SpatialEffectsVideoPlayer) Spatial Effects synced to a video with metadata.
 # Libraries
 ## SwiftUI
 - [Glur](https://github.com/joogps/Glur) A SwiftUI library that uses Metal to display efficient progressive blurs, just like the ones used by Apple.
