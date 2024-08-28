@@ -219,6 +219,7 @@
 - [VisionOS2SampleVolumeOrnaments](https://github.com/tokufxug/VisionOS2SampleVolumeOrnaments) Sample to show how to use ornaments with Volumes.
 - [VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes) A collection of interactive prototypes for VisionOS made with SwiftUI.
 - [HoudiniMeshSync](https://github.com/xjorma/HoudiniMeshSync) Sync mesh between Houdini and the Apple Vision Pro.
+- [RealityGlitchArt](https://github.com/XanderXu/RealityGlitchArt) Shader Graph examples for visionOS2.0+/iOS18+, this project uses Surface Shader to achieve a cyberpunk-2077-style glitch art effect.
 # Articles
 ## Media
 - [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58)
