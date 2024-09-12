@@ -139,7 +139,14 @@
 - [Visualizing HealthKit State of Mind in visionOS](https://developer.apple.com/documentation/healthkit/visualizing_healthkit_state_of_mind_in_visionos) Learn how to incorporate HealthKit State of Mind into your app and visualize the data in visionOS.
 - [Customizing spatial Persona templates](https://developer.apple.com/documentation/groupactivities/customizing-spatial-persona-templates) Arrange spatial Personas in a team-based guessing game.
 - [Creating a data visualization dashboard with Swift Charts](https://developer.apple.com/documentation/charts/creating-a-data-visualization-dashboard-with-swift-charts) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
-- [Enhancing your app’s content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation) Visualize an entire data collection efficiently by instantiating a single vectorized plot in Swift Charts.
+- [Enhancing your app’s content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation) Visualize an entire data collection efficiently by instantiating a single vectorized 
+- [Creating 2D shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui) Draw two-dimensional shapes in your visionOS app with SwiftUI shapes or with your custom shapes.
+- [Creating 3D entities in visionOS with RealityKit](https://developer.apple.com/documentation/visionos/creating-3d-shapes-in-visionos-with-realitykit) Display a horizontal row of three-dimensional shapes in your visionOS app, using predefined mesh and white material.
+- [Creating SwiftUI windows in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos) Display and manage multiple SwiftUI windows in your visionOS app.
+- [Creating 3D models as movable windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos) Display 3D content with a volumetric window that people can move.
+- [Creating immersive spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui) Enhance your visionOS app by adding an immersive space using SwiftUI and RealityKit.
+
+plot in Swift Charts.
 - [Creating tabletop games](https://developer.apple.com/documentation/tabletopkit/tabletopkitsample) Develop a spatial board game where multiple players interact with pieces on a table.
 # Libraries
 ## SwiftUI
