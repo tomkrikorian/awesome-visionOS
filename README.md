@@ -226,6 +226,7 @@
 - [RealityGlitchArt](https://github.com/XanderXu/RealityGlitchArt) Shader Graph examples for visionOS2.0+/iOS18+, this project uses Surface Shader to achieve a cyberpunk-2077-style glitch art effect.
 - [SpatialEffectsVideoPlayer](https://github.com/satoshi0212/SpatialEffectsVideoPlayer) Spatial Effects synced to a video with metadata.
 - [HLS360VideoMaterial](https://github.com/ynagatomo/HLS360VideoMaterial) A sample project that shows how to use a video material with a HTTP Live Streaming (HLS) 360 video in visionOS.
+- [VisionProSwiftSamples](https://github.com/HoloLabInc/VisionProSwiftSamples) Vision Pro Samples for different frameworks (ARKit, RealityKit, GroupActivities)
 # Articles
 ## Media
 - [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58)
