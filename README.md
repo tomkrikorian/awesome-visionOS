@@ -159,6 +159,7 @@
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) A collection of additional geometries ready for use in RealityKit 2+. 🥽 Vision OS/Vision Pro ready.
 - [GoncharKit](https://github.com/gonchar/GoncharKit) RealityKit helper functions for visionOS.
 - [PlanePlopper](https://github.com/daniloc/PlanePlopper) Easy API for Vision Pro persistent immersive object placement.
+- [RealityBound](https://github.com/IvanMathy/RealityBounds) A VisionOS library to visualize the bounding boxes in RealityKit.
 ## ARKit
 - [FindSurface](https://github.com/CurvSurf/FindSurface-visionOS) FindSurface is a software library that extracts 3D geometric information from point cloud data.
 ## ShaderGraph
