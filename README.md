@@ -189,6 +189,7 @@
 - [reality-check](https://github.com/ml-opensource/reality-check) RealityCheck: an open-source Mac app for streamlined debugging and real-time preview of AR projects built with RealityKit.
 - [Spatial](https://blog.mikeswanson.com/spatial/) Spatial is a free macOS command-line tool to process MV-HEVC video files (currently produced by iPhone 15 Pro and Apple Vision Pro) and spatial photos.
 - [Spatial-Metadata](https://github.com/Kartaverse/Spatial-Metadata) The KartaLink "Spatial Metadata" tools allow you to prepare immersive content for playback on Apple Vision Pro and Meta Quest HMDs.
+- [visionOS App Icon Web Previewer](https://gnikoloff.github.io/visionos-web-app-icon-maker/) This web-based tool allows you to arrange, preview, and export app icons for visionOS—no need to install Xcode or Parallax Previewer.
 
 # Gists
 - [View+WindowGeometryPreferences.swift](https://gist.github.com/drewolbrich/03460fc1bb71b9a821fff722f17ec977) A visionOS SwiftUI view modifier that can be used to hide a window's resize handles or to constrain a window's aspect ratio.
