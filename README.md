@@ -1,6 +1,7 @@
 # Table of Contents
 - [Communities](#communities)
-- [Newsletters](#newsletter)
+- [Websites](#websites)
+- [Newsletters](#newsletters)
 - [Online Courses](#online-courses)
 - [AI Tools](#ai-tools)
   * [GPTs](#gpts)
@@ -36,6 +37,9 @@
 - [/r/VisionPro](https://www.reddit.com/r/VisionPro/)
 - [Vision Pro Discord](https://discord.com/invite/yRJmAhAQvX)
 - [Apple Vision Pro Community on X](https://x.com/i/communities/1745863162396557748/)
+
+# Websites
+- [Step Into Vision](https://stepinto.vision/)
 
 # Newsletters
 - [visionOS fan](https://visionos.fan)
