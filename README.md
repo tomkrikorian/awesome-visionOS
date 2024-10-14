@@ -233,6 +233,7 @@
 - [SpatialEffectsVideoPlayer](https://github.com/satoshi0212/SpatialEffectsVideoPlayer) Spatial Effects synced to a video with metadata.
 - [HLS360VideoMaterial](https://github.com/ynagatomo/HLS360VideoMaterial) A sample project that shows how to use a video material with a HTTP Live Streaming (HLS) 360 video in visionOS.
 - [VisionProSwiftSamples](https://github.com/HoloLabInc/VisionProSwiftSamples) Vision Pro Samples for different frameworks (ARKit, RealityKit, GroupActivities)
+- [Cubes](https://github.com/dougholland/Cubes) visionOS sample using RealityKit, illustrating ornaments, shadows, collisions, and audio on Apple Vision Pro.
 # Articles
 ## Media
 - [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58)
