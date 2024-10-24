@@ -210,6 +210,7 @@
 - [HandsRuler](https://github.com/FlipByBlink/HandsRuler) Measure app by hand tracking for Apple Vision Pro.
 - [ALVR](https://github.com/alvr-org/alvr-visionos) Experimental visionOS client for ALVR - SteamVR on Apple Vision Pro!
 - [AugmenosCode](https://github.com/augmenos/AugmenosCode) An educational app that showcases some of visionOS capabilities with open source code. Intended for developers learning visionOS.
+- [openimmersive](https://github.com/acuteimmersive/openimmersive) A free and open immersive video player for the Apple Vision Pro.
 ## Examples
 - [Terrain](https://github.com/MatthewWaller/Terrain) A small example of procedurally generating terrain using RealityKit.
 - [visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) Examples implementing various visionOS features using ARKit, RealityKit, and SwiftUI through daily projects.
