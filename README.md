@@ -159,6 +159,7 @@
 - [DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) DSWaveformImage offers a native interfaces for drawing the envelope waveform of audio data.
 - [EmojiKit](https://github.com/Kankoda/EmojiKit) EmojiKit is a Swift SDK that lets you use emojis on all major Apple platforms.
 - [Vortex](https://github.com/twostraws/Vortex) High-performance particle effects for SwiftUI.
+- [ScenesManager](https://github.com/Tab-To-Tap/ScenesManager) A SwiftUI package for managing windows and immersive spaces in visionOS applications.
 ## RealityKit
 - [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries) A collection of additional geometries ready for use in RealityKit 2+. 🥽 Vision OS/Vision Pro ready.
 - [GoncharKit](https://github.com/gonchar/GoncharKit) RealityKit helper functions for visionOS.
