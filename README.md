@@ -150,6 +150,7 @@
 - [Creating SwiftUI windows in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos) Display and manage multiple SwiftUI windows in your visionOS app.
 - [Creating 3D models as movable windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos) Display 3D content with a volumetric window that people can move.
 - [Creating immersive spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui) Enhance your visionOS app by adding an immersive space using SwiftUI and RealityKit.
+- [Displaying a 3D environment through a portal](https://developer.apple.com/documentation/visionos/displaying-a-3d-environment-through-a-portal)
 
 # Libraries
 ## SwiftUI
