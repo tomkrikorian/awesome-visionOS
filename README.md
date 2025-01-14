@@ -245,6 +245,7 @@
 - [Cubes](https://github.com/dougholland/Cubes) visionOS sample using RealityKit, illustrating ornaments, shadows, collisions, and audio on Apple Vision Pro.
 - [ShaderGraphByExamples](https://github.com/ynagatomo/ShaderGraphByExamples) Examples of ShaderGraph Material with RealityKit
 - [ScenesManager-Example](https://github.com/Tab-To-Tap/ScenesManager-Example) This is an example visionOS application demonstrating the usage of ScenesManager, a SwiftUI package for managing windows and immersive spaces in visionOS applications.
+- [visions-os-workshop](https://github.com/xuchi16/vision-os-workshop) A workshop for vision os development.
 # Articles
 ## Media
 - [Immersive Video: Which camera is right?](https://medium.com/@portemantho/immersive-video-which-camera-is-right-db429042aa58)
