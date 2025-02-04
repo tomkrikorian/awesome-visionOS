@@ -287,6 +287,8 @@ A curated collection of resources for developers working with visionOS. Explore 
   A video player for iOS, macOS, tvOS, and visionOS based on AVPlayer and FFmpeg.
 - **[HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift)**  
   A camera and microphone streaming library via RTMP and SRT.
+- **[YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit)**  
+  A Swift Package to easily play YouTube videos 📺
 
 ### Maps
 
