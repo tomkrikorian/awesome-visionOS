@@ -254,6 +254,8 @@ A curated collection of resources for developers working with visionOS. Explore 
   A mesmerizing orb built entirely in SwiftUI.
 - **[ScenesManager](https://github.com/Tab-To-Tap/ScenesManager)**  
   Manage windows and immersive spaces in visionOS apps.
+- **[MeshingKit](https://github.com/rryam/MeshingKit)**  
+  Ultimate framework to add mesh gradients to your iOS/macOS/visionOS/tvOS and watchOS apps!
 
 ### RealityKit
 
