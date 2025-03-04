@@ -452,6 +452,9 @@ A curated collection of resources for developers working with visionOS. Explore 
   A collection of Shader Graph Materials for visionOS.
 - **[DcmVision](https://github.com/LunarisTeam/DcmVision)**  
   Technical demonstration of how to integrate and handle DICOM imaging with Apple Vision Pro.
+- **[Apple-visionOS-Workshop](https://github.com/5j54d93/Apple-visionOS-Workshop)**  
+  This repository showcases all the features I learned from Apple's visionOS workshop, including SwiftUI, Model3D, RealityView, ImmersiveSpace, Anchors, Sky Spheres, USDZ, Ambient Audio, Spatial Audio, Notifications, and more.
+
 
 ---
 
