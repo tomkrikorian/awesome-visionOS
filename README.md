@@ -98,6 +98,8 @@ A curated collection of resources for developers working with visionOS. Explore 
 
 - **[CopilotForXcode](https://github.com/intitni/CopilotForXcode)**  
   An Xcode source editor extension inspired by GitHub Copilot, Codeium, and ChatGPT.
+- **[Alex Sidebar](https://alexcodes.app)**  
+  Alex Sidebar is the AI assistant that integrates with Xcode to enhance your development experience.
 
 ---
 
