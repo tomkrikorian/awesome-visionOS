@@ -456,6 +456,9 @@ A curated collection of resources for developers working with visionOS. Explore 
   This repository showcases all the features I learned from Apple's visionOS workshop, including SwiftUI, Model3D, RealityView, ImmersiveSpace, Anchors, Sky Spheres, USDZ, Ambient Audio, Spatial Audio, Notifications, and more.
 - **[SpatialYOLO](https://github.com/lazygunner/SpatialYOLO)**  
   *Open Source* Object Detection with YOLOv11 and Main Camera Access on Vision Pro
+- **[SystemOverlayExample](https://github.com/tochi/SystemOverlayExample)**  
+  Example of system overlay style for visionOS
+
 
 
 
