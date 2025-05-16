@@ -460,8 +460,8 @@ A curated collection of resources for developers working with visionOS. Explore 
   Example of system overlay style for visionOS
 - **[Bubbles](https://github.com/sarangborude/Bubbles)**  
   Sample project for a Bubble Shader Graph Material
-
-
+- **[VisionOSGeometryModifier](https://github.com/ckse93/VisionOSGeometryModifier)**  
+  Geometry Modifier shader node practice
 
 
 
