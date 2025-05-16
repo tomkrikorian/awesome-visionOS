@@ -395,6 +395,8 @@ A curated collection of resources for developers working with visionOS. Explore 
   Procedurally generated terrain using RealityKit.
 - **[visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days)**  
   Daily examples implementing various visionOS features.
+- **[visionOS_2 30Days](https://github.com/satoshi0212/visionOS_2_30Days)**  
+  visionOS 2 30 days challenge.
 - **[visionOS-examples](https://github.com/IvanCampos/visionOS-examples)**  
   A collection of visionOS feature examples.
 - **[Immersive Video Player Sample](https://github.com/morin-innovation/immersive-video-player-sample)**
