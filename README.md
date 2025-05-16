@@ -458,7 +458,8 @@ A curated collection of resources for developers working with visionOS. Explore 
   *Open Source* Object Detection with YOLOv11 and Main Camera Access on Vision Pro
 - **[SystemOverlayExample](https://github.com/tochi/SystemOverlayExample)**  
   Example of system overlay style for visionOS
-
+- **[Bubbles](https://github.com/sarangborude/Bubbles)**  
+  Sample project for a Bubble Shader Graph Material
 
 
 
