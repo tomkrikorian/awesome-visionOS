@@ -18,6 +18,8 @@ A curated collection of resources for developers working with visionOS. Explore 
     - [2023](#2023)
     - [2024](#2024)
   - [Samples](#samples)
+    - [2023&2024](#2023&2024)
+    - [2025](#2025)
 - [Libraries](#libraries)
   - [SwiftUI](#swiftui)
   - [RealityKit](#realitykit)
@@ -164,6 +166,8 @@ A curated collection of resources for developers working with visionOS. Explore 
 
 ### Samples
 
+#### 2023&2024
+
 - **[Hello World](https://developer.apple.com/documentation/visionos/world)**  
   Learn to use windows, volumes, and immersive spaces.
 - **[Destination Video](https://developer.apple.com/documentation/visionos/destination-video)**  
@@ -234,6 +238,13 @@ A curated collection of resources for developers working with visionOS. Explore 
   Enhance apps with immersive spaces using SwiftUI and RealityKit.
 - **[Displaying a 3D environment through a portal](https://developer.apple.com/documentation/visionos/displaying-a-3d-environment-through-a-portal)**
 
+#### 2025
+- **[Canyon Crosser: Building a volumetric hike-planning app](https://developer.apple.com/documentation/visionOS/canyon-crosser-building-a-volumetric-hike-planning-app)**
+- **[Playing immersive media with RealityKit](https://developer.apple.com/documentation/visionos/playing-immersive-media-with-realitykit)**
+- **[Petite Asteroids: Building a volumetric visionOS game](https://developer.apple.com/documentation/visionOS/petite-asteroids-building-a-volumetric-visionos-game)**
+- **[Synchronizing group gameplay with TabletopKit](https://developer.apple.com/documentation/TabletopKit/synchronizing-group-gameplay-with-tabletopkit)**
+- **[Tracking accessories in volumetric windows](https://developer.apple.com/documentation/ARKit/tracking-accessories-in-volumetric-windows)**
+- **[Tracking a handheld accessory as a virtual sculpting tool](https://developer.apple.com/documentation/arkit/tracking-a-handheld-accessory-as-a-virtual-sculpting-tool)**
 ---
 
 ## Libraries
