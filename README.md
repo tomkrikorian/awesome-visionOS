@@ -18,7 +18,7 @@ A curated collection of resources for developers working with visionOS. Explore 
     - [2023](#2023)
     - [2024](#2024)
   - [Samples](#samples)
-    - [2023 & 2024](#20232024)
+    - [2023 & 2024](#2023--2024)
     - [2025](#2025)
 - [Libraries](#libraries)
   - [SwiftUI](#swiftui)
