@@ -17,6 +17,7 @@ A curated collection of resources for developers working with visionOS. Explore 
   - [WWDC](#wwdc)
     - [2023](#2023)
     - [2024](#2024)
+    - [2025](#2025)
   - [Samples](#samples)
     - [2023 & 2024](#2023--2024)
     - [2025](#2025)
@@ -163,6 +164,18 @@ A curated collection of resources for developers working with visionOS. Explore 
 - **[Optimize your 3D assets for spatial computing](https://developer.apple.com/videos/play/wwdc2024-10186)**
 - **[Customize spatial Persona templates in SharePlay](https://developer.apple.com/videos/play/wwdc2024-10201)**
 - **[What’s new in Quick Look for visionOS](https://developer.apple.com/videos/play/wwdc2024-10105)**
+
+#### 2025
+
+- **[What’s new in RealityKit](https://developer.apple.com/videos/play/wwdc2025/287)**
+- **[Explore spatial accessory input on visionOS](https://developer.apple.com/videos/play/wwdc2025/289)**
+- **[What’s new in Metal rendering for immersive apps](https://developer.apple.com/videos/play/wwdc2025/294)**
+- **[Support immersive video playback in visionOS apps](https://developer.apple.com/videos/play/wwdc2025/296)**
+- **[Explore video experiences for visionOS](https://developer.apple.com/videos/play/wwdc2025/304)**
+- **[Optimize your custom environments for visionOS](https://developer.apple.com/videos/play/wwdc2025/305)**
+- **[What’s new in visionOS 26](https://developer.apple.com/videos/play/wwdc2025/317)**
+- **[Share visionOS experiences with nearby people](https://developer.apple.com/videos/play/wwdc2025/318)**
+- **[Learn about Apple Immersive Video technologies](https://developer.apple.com/videos/play/wwdc2025/403)**
 
 ### Samples
 
