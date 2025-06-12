@@ -176,6 +176,16 @@ A curated collection of resources for developers working with visionOS. Explore 
 - **[What’s new in visionOS 26](https://developer.apple.com/videos/play/wwdc2025/317)**
 - **[Share visionOS experiences with nearby people](https://developer.apple.com/videos/play/wwdc2025/318)**
 - **[Learn about Apple Immersive Video technologies](https://developer.apple.com/videos/play/wwdc2025/403)**
+- **[Better together: SwiftUI and RealityKit](https://developer.apple.com/videos/play/wwdc2025/274/)**
+- **[Meet SwiftUI spatial layout](https://developer.apple.com/videos/play/wwdc2025/273/)**
+- **[What’s new in widgets](https://developer.apple.com/videos/play/wwdc2025/278/)**
+- **[Design widgets for visionOS](https://developer.apple.com/videos/play/wwdc2025/255/)**
+- **[Set the scene with SwiftUI in visionOS](https://developer.apple.com/videos/play/wwdc2025/290/)**
+- **[Bring Swift Charts to the third dimension](https://developer.apple.com/videos/play/wwdc2025/313/)**
+- **[What’s new for the spatial web](https://developer.apple.com/videos/play/wwdc2025/237/)**
+- **[Design hover interactions for visionOS](https://developer.apple.com/videos/play/wwdc2025/303/)**
+- **[Explore enhancements to your spatial business app](https://developer.apple.com/videos/play/wwdc2025/223/)**
+- **[Learn about the Apple Projected Media Profile](https://developer.apple.com/videos/play/wwdc2025/297/)**
 
 ### Samples
 
