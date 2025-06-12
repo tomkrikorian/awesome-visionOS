@@ -258,6 +258,9 @@ A curated collection of resources for developers working with visionOS. Explore 
 - **[Synchronizing group gameplay with TabletopKit](https://developer.apple.com/documentation/TabletopKit/synchronizing-group-gameplay-with-tabletopkit)**
 - **[Tracking accessories in volumetric windows](https://developer.apple.com/documentation/ARKit/tracking-accessories-in-volumetric-windows)**
 - **[Tracking a handheld accessory as a virtual sculpting tool](https://developer.apple.com/documentation/arkit/tracking-a-handheld-accessory-as-a-virtual-sculpting-tool)**
+- **[Rendering hover effects in Metal immersive apps](https://developer.apple.com/documentation/CompositorServices/rendering_hover_effects_in_metal_immersive_apps)**
+
+
 ---
 
 ## Libraries
