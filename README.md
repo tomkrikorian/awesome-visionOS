@@ -11,7 +11,6 @@ A curated collection of resources for developers working with visionOS. Explore 
 - [Newsletters](#newsletters)
 - [Online Courses](#online-courses)
 - [AI Tools](#ai-tools)
-  - [GPTs](#gpts)
   - [Code Completion](#code-completion)
 - [From Apple](#from-apple)
   - [WWDC](#wwdc)
@@ -83,19 +82,6 @@ A curated collection of resources for developers working with visionOS. Explore 
 ---
 
 ## AI Tools
-
-### GPTs
-
-- **[visionOS Assist](https://chatgpt.com/g/g-gqbgzzw40-visionos-assist)**  
-  Get up-to-date answers on visionOS 2 development.
-- **[VisionOS Copilot](https://chatgpt.com/g/g-kiQkZwZMF-visionos-copilot)**  
-  A GPT tailored to assist with building VisionPro and visionOS apps.
-- **[iOS & visionOS App Builder](https://chatgpt.com/g/g-Cw3y7bSRO-ios-visionos-app-builder)**  
-  Expert Swift coder with integrated documentation for visionOS & RealityKit.
-- **[visionOS Dev](https://chatgpt.com/g/g-GbfBtRzZo-visionos-dev)**  
-  Generate Apple Vision Pro apps with ease.
-- **[VisionOS Developer](https://chatgpt.com/g/g-N6cjeP6IK-visionos-developer)**  
-  An assistant and project generator trained with the latest docs.
 
 ### Code Completion
 
