@@ -488,7 +488,8 @@ A curated collection of resources for developers working with visionOS. Explore 
   Sample project for a Bubble Shader Graph Material
 - **[VisionOSGeometryModifier](https://github.com/ckse93/VisionOSGeometryModifier)**  
   Geometry Modifier shader node practice
-
+- **[pISSStream](https://github.com/Jaennaet/pISSStream?tab=readme-ov-file#visionos)**  
+  App that shows how full the International Space Station's waste tank in immersive 3D with real-time fill-level visualization.
 
 
 ---
