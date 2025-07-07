@@ -259,6 +259,8 @@ A curated collection of resources for developers working with visionOS. Explore 
 - **[Accessing the main camera](https://developer.apple.com/documentation/visionos/accessing-the-main-camera)**
 - **[Enhancing the audio experience for Petite Asteroids](https://developer.apple.com/documentation/visionos/enhancing-the-audio-experience-for-petite-asteroids)**
 - **[Bringing your SceneKit projects to RealityKit](https://developer.apple.com/documentation/realitykit/bringing-your-scenekit-projects-to-realitykit)**
+- **[Rendering hover effects in Metal immersive apps](https://developer.apple.com/documentation/compositorservices/rendering_hover_effects_in_metal_immersive_apps)**
+
 
 ---
 
