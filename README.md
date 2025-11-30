@@ -495,6 +495,8 @@ A curated collection of resources for developers working with visionOS. Explore 
   Geometry Modifier shader node practice
 - **[pISSStream](https://github.com/Jaennaet/pISSStream?tab=readme-ov-file#visionos)**  
   App that shows how full the International Space Station's waste tank in immersive 3D with real-time fill-level visualization.
+- **[RCPMaterials](https://github.com/JamieScanlon/RCPMaterials?tab=readme-ov-file)**  
+  Reality Composer Pro Dynamic Materials Library.
 
 
 ---
