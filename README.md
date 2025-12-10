@@ -262,6 +262,8 @@ A curated collection of resources for developers working with visionOS. Explore 
 - **[Rendering hover effects in Metal immersive apps](https://developer.apple.com/documentation/compositorservices/rendering_hover_effects_in_metal_immersive_apps)**
 - **[Loading entities with ShaderGraph materials](https://developer.apple.com/documentation/realitycomposerpro/loading-entities-with-shadergraph-materials)**
 - **[Rendering stereoscopic video with RealityKit](https://developer.apple.com/documentation/realitykit/rendering-stereoscopic-video-with-realitykit)**
+- **[Animating hand models in visionOS](https://developer.apple.com/documentation/visionos/animating-hand-models-in-visionos)**
+- **[Integrating virtual objects with your environment](https://developer.apple.com/documentation/realitykit/integrating-virtual-objects-with-your-environment)**
 
 ---
 
