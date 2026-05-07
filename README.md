@@ -145,7 +145,6 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Enhancing your app's content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation) — Shows tab navigation patterns for SwiftUI apps.
 - [Creating tabletop games](https://developer.apple.com/documentation/tabletopkit/tabletopkitsample) — Demonstrates spatial board game mechanics with TabletopKit.
 - [Creating 2D shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui) — Draws 2D shapes with SwiftUI in visionOS.
-- [Creating 3D entities in visionOS with RealityKit](https://developer.apple.com/documentation/visionos/creating-3d-shapes-in-visionos-with-realitykit) — Displays 3D shapes using predefined RealityKit meshes.
 - [Creating SwiftUI windows in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos) — Manages multiple windows in a SwiftUI visionOS app.
 - [Creating 3D models as movable windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos) — Presents 3D content inside a volumetric window.
 - [Creating immersive spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui) — Opens immersive spaces with SwiftUI and RealityKit.
@@ -162,7 +161,6 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Rendering hover effects in Metal immersive apps](https://developer.apple.com/documentation/compositorservices/rendering_hover_effects_in_metal_immersive_apps) — Demonstrates hover rendering in Metal immersive apps.
 - [Presenting images in RealityKit](https://developer.apple.com/documentation/realitykit/presenting-images-in-realitykit) — Presents images as RealityKit content.
 - [Accessing the main camera](https://developer.apple.com/documentation/visionos/accessing-the-main-camera) — Uses enterprise camera access APIs on visionOS.
-- [Enhancing the audio experience for Petite Asteroids](https://developer.apple.com/documentation/visionos/enhancing-the-audio-experience-for-petite-asteroids) — Adds richer audio to a volumetric game.
 - [Bringing your SceneKit projects to RealityKit](https://developer.apple.com/documentation/realitykit/bringing-your-scenekit-projects-to-realitykit) — Migrates SceneKit concepts and assets to RealityKit.
 - [Loading entities with ShaderGraph materials](https://developer.apple.com/documentation/realitycomposerpro/loading-entities-with-shadergraph-materials) — Loads Reality Composer Pro entities with ShaderGraph materials.
 - [Rendering stereoscopic video with RealityKit](https://developer.apple.com/documentation/realitykit/rendering-stereoscopic-video-with-realitykit) — Renders stereoscopic video with RealityKit.
@@ -231,7 +229,6 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Firebase](https://github.com/firebase/firebase-ios-sdk) — Provides Firebase SDKs for Apple app development.
 - [OAuthKit](https://github.com/codefiesta/OAuthKit) — Adds OAuth 2.0 authentication helpers for Swift apps.
 - [MLX](https://github.com/ml-explore/mlx-swift) — Provides Swift APIs for Apple's MLX array framework.
-- [LLM.swift](https://github.com/eastriverlee/LLM.swift) — Runs local large language models from Swift.
 - [WhisperKit](https://github.com/argmaxinc/WhisperKit) — Provides on-device speech recognition for Apple silicon.
 - [GPTalks](https://github.com/SilverMarcs/GPTalks) — Demonstrates a multiplatform ChatGPT API client written in SwiftUI.
 
@@ -308,7 +305,6 @@ A curated list of resources for developers building visionOS apps, spatial inter
 
 #### Prototypes
 
-- [VisionOS-Prototypes](https://github.com/Volorf/VisionOS-Prototypes) — Collects interactive visionOS prototypes built with SwiftUI.
 - [Settings-visionOS](https://github.com/zhrispineda/Settings-visionOS) — Recreates the visionOS Settings app in SwiftUI.
 - [SystemOverlayExample](https://github.com/tochi/SystemOverlayExample) — Demonstrates a system overlay style for visionOS.
 
@@ -317,8 +313,6 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [visionOS-2-Object-Tracking-Demo](https://github.com/robomex/visionOS-2-Object-Tracking-Demo) — Demonstrates advanced object tracking for visionOS 2.
 - [VisionProVacuumDemo](https://github.com/gonchar/VisionProVacuumDemo) — Demonstrates an Apple Vision Pro experience with RealityKit and ARKit.
 - [SpatialYOLO](https://github.com/lazygunner/SpatialYOLO) — Runs YOLOv11 object detection with main camera access on Apple Vision Pro.
-- [DcmVision](https://github.com/LunarisTeam/DcmVision) — Demonstrates DICOM imaging integration on Apple Vision Pro.
-- [VOClimateSpiral](https://github.com/ynagatomo/VOClimateSpiral) — Visualizes the climate spiral in a simple AR app.
 
 ## Learning
 
