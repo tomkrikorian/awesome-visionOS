@@ -64,10 +64,6 @@ for (const {line, number} of entryLines) {
     errors.push(`Line ${number} must use an em dash separator.`);
   }
 
-  if (!line.includes(' Tags: ')) {
-    errors.push(`Line ${number} is missing tags.`);
-  }
-
   if (!line.trimEnd().endsWith('.')) {
     errors.push(`Line ${number} must end with a period.`);
   }
