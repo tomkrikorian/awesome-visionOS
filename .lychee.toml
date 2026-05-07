@@ -1,0 +1,8 @@
+max_retries = 2
+timeout = 20
+
+exclude = [
+  "^https://www.linkedin.com/",
+  "^https://discord.com/",
+  "^https://x.com/"
+]
