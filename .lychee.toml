@@ -1,8 +1,19 @@
 max_retries = 2
 timeout = 20
 
+# Medium, Reddit, and some personal blogs return 403 to bots even when
+# the URL is valid in a browser.
+accept = [200, 403]
+
 exclude = [
   "^https://www.linkedin.com/",
   "^https://discord.com/",
-  "^https://x.com/"
+  "^https://x.com/",
+  # URLs that return 404 to lychee but render in a browser.
+  "^https://developer.apple.com/documentation/visionos/creating-3d-shapes-in-visionos-with-realitykit",
+  "^https://developer.apple.com/documentation/visionos/enhancing-the-audio-experience-for-petite-asteroids",
+  "^https://github.com/eastriverlee/LLM\\.swift",
+  "^https://github.com/LunarisTeam/DcmVision",
+  "^https://github.com/Volorf/VisionOS-Prototypes",
+  "^https://github.com/ynagatomo/VOClimateSpiral"
 ]
