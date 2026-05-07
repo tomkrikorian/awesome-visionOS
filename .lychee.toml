@@ -1,0 +1,12 @@
+max_retries = 2
+timeout = 20
+
+# Medium, Reddit, and some personal blogs return 403 to bots even when
+# the URL is valid in a browser.
+accept = [200, 403]
+
+exclude = [
+  "^https://www.linkedin.com/",
+  "^https://discord.com/",
+  "^https://x.com/"
+]

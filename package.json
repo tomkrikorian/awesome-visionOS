@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "npm run lint:readme && npm run lint:awesome",
+    "lint:awesome": "node scripts/run-awesome-lint.mjs",
+    "lint:readme": "node scripts/check-readme.mjs"
+  },
+  "devDependencies": {
+    "awesome-lint": "^2.3.0"
+  }
+}
