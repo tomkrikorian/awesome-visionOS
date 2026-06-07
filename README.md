@@ -92,6 +92,7 @@ A curated list of resources for developers building visionOS apps, spatial inter
 #### 2025
 
 - [What's new in RealityKit](https://developer.apple.com/videos/play/wwdc2025/287) — Summarizes RealityKit updates for modern spatial apps.
+- [Bring your SceneKit project to RealityKit](https://developer.apple.com/videos/play/wwdc2025/288/) — Shows how to migrate SceneKit rendering, assets, animation, audio, and effects to RealityKit.
 - [Explore spatial accessory input on visionOS](https://developer.apple.com/videos/play/wwdc2025/289) — Covers accessory tracking and input workflows on visionOS.
 - [What's new in Metal rendering for immersive apps](https://developer.apple.com/videos/play/wwdc2025/294) — Explains Metal rendering updates for immersive experiences.
 - [Support immersive video playback in visionOS apps](https://developer.apple.com/videos/play/wwdc2025/296) — Shows how to implement immersive video playback.
@@ -123,7 +124,7 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Incorporating real-world surroundings in an immersive experience](https://developer.apple.com/documentation/visionos/incorporating-real-world-surroundings-in-an-immersive-experience) — Shows how immersive content can respond to room geometry.
 - [Placing content on detected planes](https://developer.apple.com/documentation/visionos/placing-content-on-detected-planes) — Demonstrates placement on horizontal and vertical surfaces.
 - [Tracking specific points in world space](https://developer.apple.com/documentation/visionos/tracking-points-in-world-space) — Shows how to store and retrieve world anchor positions.
-- [Converting side-by-side 3D video to multiview HEVC](https://developer.apple.com/documentation/avfoundation/media_reading_and_writing/converting_side-by-side_3d_video_to_multiview_hevc) — Converts stereoscopic video sources into multiview HEVC.
+- [Converting side-by-side 3D video to multiview HEVC and spatial video](https://developer.apple.com/documentation/AVFoundation/converting-side-by-side-3d-video-to-multiview-hevc-and-spatial-video) — Converts stereoscopic video sources into multiview HEVC and spatial video.
 - [Construct an immersive environment for visionOS](https://developer.apple.com/documentation/realitykit/construct-an-immersive-environment-for-visionos) — Builds efficient custom environments for immersive spaces.
 - [Transforming RealityKit entities using gestures](https://developer.apple.com/documentation/realitykit/transforming-realitykit-entities-with-gestures) — Adds translation, rotation, and scale gestures to RealityKit entities.
 - [Simulating physics with collisions in your visionOS app](https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app) — Demonstrates RealityKit collisions and physics simulation.
@@ -138,22 +139,43 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Combining 2D and 3D views in an immersive app](https://developer.apple.com/documentation/realitykit/combining-2d-and-3d-views-in-an-immersive-app) — Attaches SwiftUI content to 3D RealityKit entities.
 - [Creating a Spaceship game](https://developer.apple.com/documentation/realitykit/creating-a-spaceship-game) — Builds an immersive game with RealityKit systems.
 - [Rendering a windowed game in stereo](https://developer.apple.com/documentation/realitykit/rendering-a-windowed-game-in-stereo) — Adapts a windowed game for stereoscopic rendering.
-- [Building local experiences with room tracking](https://developer.apple.com/documentation/arkit/arkit_in_visionos/building_local_experiences_with_room_tracking) — Uses room tracking to align virtual content with a real space.
-- [Visualizing HealthKit State of Mind in visionOS](https://developer.apple.com/documentation/healthkit/visualizing_healthkit_state_of_mind_in_visionos) — Presents HealthKit mental wellbeing data in a spatial interface.
+- [Building local experiences with room tracking](https://developer.apple.com/documentation/visionOS/building-local-experiences-with-room-tracking) — Uses room tracking to align virtual content with a real space.
+- [Visualizing HealthKit State of Mind in visionOS](https://developer.apple.com/documentation/HealthKit/visualizing-healthkit-state-of-mind-in-visionos) — Presents HealthKit mental wellbeing data in a spatial interface.
 - [Customizing spatial Persona templates](https://developer.apple.com/documentation/groupactivities/customizing-spatial-persona-templates) — Arranges spatial Personas for SharePlay experiences.
 - [Creating a data visualization dashboard with Swift Charts](https://developer.apple.com/documentation/charts/creating-a-data-visualization-dashboard-with-swift-charts) — Builds a spatial dashboard with Swift Charts.
 - [Enhancing your app's content with tab navigation](https://developer.apple.com/documentation/swiftui/enhancing-your-app-content-with-tab-navigation) — Shows tab navigation patterns for SwiftUI apps.
-- [Creating tabletop games](https://developer.apple.com/documentation/tabletopkit/tabletopkitsample) — Demonstrates spatial board game mechanics with TabletopKit.
-- [Creating 2D shapes in visionOS with SwiftUI](https://developer.apple.com/documentation/visionos/creating-2d-shapes-in-visionos-with-swiftui) — Draws 2D shapes with SwiftUI in visionOS.
+- [Creating tabletop games](https://developer.apple.com/documentation/TabletopKit/creating-tabletop-games) — Demonstrates spatial board game mechanics with TabletopKit.
+- [Creating 2D shapes with SwiftUI](https://developer.apple.com/documentation/visionOS/creating-2d-shapes-in-visionos-with-swiftui) — Draws 2D shapes with SwiftUI in visionOS.
+- [Creating 3D entities with RealityKit](https://developer.apple.com/documentation/visionOS/creating-3d-entities-with-realitykit) — Displays 3D shapes using predefined RealityKit meshes.
 - [Creating SwiftUI windows in visionOS](https://developer.apple.com/documentation/visionos/creating-a-new-swiftui-window-in-visionos) — Manages multiple windows in a SwiftUI visionOS app.
 - [Creating 3D models as movable windows](https://developer.apple.com/documentation/visionos/creating-a-volumetric-window-in-visionos) — Presents 3D content inside a volumetric window.
-- [Creating immersive spaces in visionOS](https://developer.apple.com/documentation/visionos/creating-immersive-spaces-in-visionos-with-swiftui) — Opens immersive spaces with SwiftUI and RealityKit.
+- [Creating an immersive space in visionOS](https://developer.apple.com/documentation/visionOS/creating-immersive-spaces-in-visionos-with-swiftui) — Opens an immersive space with SwiftUI and RealityKit.
 - [Displaying a 3D environment through a portal](https://developer.apple.com/documentation/visionos/displaying-a-3d-environment-through-a-portal) — Uses portal rendering to reveal an authored 3D environment.
+- [Displaying an entity that follows a person's view](https://developer.apple.com/documentation/visionOS/displaying-a-3D-object-that-moves-to-stay-in-a-person's-view) — Positions RealityKit content relative to the viewer's head movement.
+- [Displaying a stereoscopic image](https://developer.apple.com/documentation/visionOS/displaying-a-stereoscopic-image-in-visionos) — Presents stereoscopic image content in a visionOS app.
+- [Displaying text in visionOS](https://developer.apple.com/documentation/visionOS/displaying-text-in-visionOS) — Shows text styling and presentation patterns for visionOS.
+- [Adding a depth effect to text in visionOS](https://developer.apple.com/documentation/visionOS/adding-a-depth-effect-to-text-in-visionOS) — Adds dimensional text effects in a visionOS scene.
+- [Creating an interactive 3D model in visionOS](https://developer.apple.com/documentation/visionOS/creating-an-interactable-3d-model-in-visionos) — Adds interaction to a 3D model in a visionOS app.
+- [Creating a 3D painting space](https://developer.apple.com/documentation/visionOS/creating-a-painting-space-in-visionos) — Implements a painting canvas entity and updates its mesh for strokes.
+- [Generating procedural textures](https://developer.apple.com/documentation/visionOS/generating-procedural-textures-in-visionos) — Generates textures for RealityKit content at runtime.
+- [Implementing adjustable material](https://developer.apple.com/documentation/visionOS/implementing-adjustable-material-in-visionos) — Demonstrates configurable materials for visionOS content.
+- [Playing spatial audio](https://developer.apple.com/documentation/visionOS/playing-spatial-audio-in-visionos) — Demonstrates spatial audio playback in visionOS.
+- [Tracking and visualizing hand movement](https://developer.apple.com/documentation/visionOS/tracking-and-visualizing-hand-movement) — Visualizes hand tracking data in a visionOS app.
+- [Applying mesh to real-world surroundings](https://developer.apple.com/documentation/visionOS/applying-mesh-to-real-world-surroundings) — Applies generated mesh content to detected surroundings.
+- [Obscuring virtual items in a scene behind real-world items](https://developer.apple.com/documentation/visionOS/obscuring-virtual-items-in-a-scene-behind-real-world-items) — Uses real-world occlusion to blend virtual content with surroundings.
+- [Placing entities using head and device transform](https://developer.apple.com/documentation/visionOS/placing-entities-using-head-and-device-transform) — Places RealityKit entities using viewer and device transforms.
+- [Object tracking with Reality Composer Pro experiences](https://developer.apple.com/documentation/visionOS/object-tracking-with-reality-composer-pro-experiences) — Attaches authored Reality Composer Pro content to tracked objects.
+- [Implementing SharePlay for immersive spaces in visionOS](https://developer.apple.com/documentation/visionOS/implementing-shareplay-for-immersive-spaces-in-visionos) — Synchronizes immersive-space content across a SharePlay session.
+- [Building a guessing game for visionOS](https://developer.apple.com/documentation/groupactivities/building-a-guessing-game-for-visionos) — Creates a team-based SharePlay game using spatial Persona placement.
+- [Creating a multiview video playback experience in visionOS](https://developer.apple.com/documentation/avkit/creating-a-multiview-video-playback-experience-in-visionos) — Builds a multiview video interface for visionOS.
 
-#### 2025
+#### 2025 and later
 
 - [Canyon Crosser: Building a volumetric hike-planning app](https://developer.apple.com/documentation/visionOS/canyon-crosser-building-a-volumetric-hike-planning-app) — Builds a volumetric planning app with maps and terrain.
+- [Connecting iPadOS and visionOS apps over the local network](https://developer.apple.com/documentation/visionOS/connecting-ipados-and-visionos-apps-over-the-local-network) — Builds an iPadOS companion app that controls a visionOS experience.
 - [Playing immersive media with RealityKit](https://developer.apple.com/documentation/visionos/playing-immersive-media-with-realitykit) — Shows immersive media playback using RealityKit.
+- [Playing immersive media with AVKit](https://developer.apple.com/documentation/AVKit/playing-immersive-media-with-avkit) — Uses AVKit to play immersive media on visionOS.
+- [Authoring Apple Immersive Video](https://developer.apple.com/documentation/ImmersiveMediaSupport/authoring-apple-immersive-video) — Shows how to author Apple Immersive Video with Immersive Media Support.
 - [Petite Asteroids: Building a volumetric visionOS game](https://developer.apple.com/documentation/visionOS/petite-asteroids-building-a-volumetric-visionos-game) — Builds a volumetric arcade game for visionOS.
 - [Synchronizing group gameplay with TabletopKit](https://developer.apple.com/documentation/TabletopKit/synchronizing-group-gameplay-with-tabletopkit) — Synchronizes multiplayer tabletop gameplay.
 - [Tracking accessories in volumetric windows](https://developer.apple.com/documentation/ARKit/tracking-accessories-in-volumetric-windows) — Tracks accessories inside volumetric window experiences.
@@ -161,6 +183,11 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Rendering hover effects in Metal immersive apps](https://developer.apple.com/documentation/compositorservices/rendering_hover_effects_in_metal_immersive_apps) — Demonstrates hover rendering in Metal immersive apps.
 - [Presenting images in RealityKit](https://developer.apple.com/documentation/realitykit/presenting-images-in-realitykit) — Presents images as RealityKit content.
 - [Accessing the main camera](https://developer.apple.com/documentation/visionos/accessing-the-main-camera) — Uses enterprise camera access APIs on visionOS.
+- [Displaying video from connected devices](https://developer.apple.com/documentation/visionOS/displaying-video-from-connected-devices) — Shows video from devices connected with the Developer Strap.
+- [Locating and decoding barcodes in 3D space](https://developer.apple.com/documentation/visionOS/locating-and-decoding-barcodes-in-3d-space) — Detects and decodes barcodes in the user's surroundings.
+- [Creating a foveated streaming client on visionOS](https://developer.apple.com/documentation/FoveatedStreaming/creating-a-foveated-streaming-client-on-visionos) — Streams high-fidelity immersive content using Foveated Streaming.
+- [Drawing in the air and on surfaces with a spatial stylus](https://developer.apple.com/documentation/visionOS/drawing-in-the-air-and-on-surfaces-with-a-spatial-stylus) — Builds a spatial stylus drawing experience for in-air and on-surface input.
+- [Manipulating entities with solid collisions](https://developer.apple.com/documentation/visionOS/manipulating-entities-with-solid-collisions) — Maintains solid collision behavior while manipulating RealityKit entities.
 - [Bringing your SceneKit projects to RealityKit](https://developer.apple.com/documentation/realitykit/bringing-your-scenekit-projects-to-realitykit) — Migrates SceneKit concepts and assets to RealityKit.
 - [Loading entities with ShaderGraph materials](https://developer.apple.com/documentation/realitycomposerpro/loading-entities-with-shadergraph-materials) — Loads Reality Composer Pro entities with ShaderGraph materials.
 - [Rendering stereoscopic video with RealityKit](https://developer.apple.com/documentation/realitykit/rendering-stereoscopic-video-with-realitykit) — Renders stereoscopic video with RealityKit.
