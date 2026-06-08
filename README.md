@@ -112,6 +112,24 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Explore enhancements to your spatial business app](https://developer.apple.com/videos/play/wwdc2025/223/) — Covers platform features for enterprise and business workflows.
 - [Learn about the Apple Projected Media Profile](https://developer.apple.com/videos/play/wwdc2025/297/) — Explains APMP for immersive media delivery.
 
+#### 2026
+
+- [Build next-generation experiences with visionOS 27](https://developer.apple.com/videos/play/wwdc2026/287/) — Summarizes new visionOS 27 pathways for apps, games, immersive media, streaming, engines, and object tracking.
+- [Explore advances in RealityKit](https://developer.apple.com/videos/play/wwdc2026/279/) — Covers RealityKit updates including cloth simulation, navigation meshes, mixed-reality lighting, reverb meshes, shadows, character rendering, and Gaussian splatting.
+- [Collaborate on structured 3D models in visionOS](https://developer.apple.com/videos/play/wwdc2026/284/) — Shows USDZ preparation, hierarchical model manipulation, cross-sectional inspection, and exploded-view animations for design review.
+- [Explore enhancements to visionOS object tracking](https://developer.apple.com/videos/play/wwdc2026/283/) — Covers object tracking, moving and handheld objects, spatial accessory input, and custom accessory requirements.
+- [Use foveated streaming to bring immersive content to visionOS](https://developer.apple.com/videos/play/wwdc2026/286/) — Explains wireless foveated streaming for remotely rendered immersive content on Apple Vision Pro.
+- [Build live production tools for Apple Immersive Video](https://developer.apple.com/videos/play/wwdc2026/338/) — Covers real-time Apple Immersive Video production over IP with immersive media, spatial audio, and scene metadata.
+- [Discover the Spatial Preview framework](https://developer.apple.com/videos/play/wwdc2026/282/) — Shows how Mac apps can live-sync 2D and 3D content into visionOS with Spatial Preview.
+- [Discover USDKit and what's new in OpenUSD](https://developer.apple.com/videos/play/wwdc2026/285/) — Covers USDKit, Spatial Preview APIs, spatial web updates, OpenUSD accessibility, Gaussian splats, and compressed geometry.
+- [Supercharge your spatial workflows with Reality Composer Pro 3](https://developer.apple.com/videos/play/wwdc2026/393/) — Demonstrates graph-based tools for materials, animations, particles, scripting, sequencing, and behavior trees in Reality Composer Pro 3.
+- [Extend Reality Composer Pro 3 functionality with Xcode](https://developer.apple.com/videos/play/wwdc2026/281/) — Shows how to create project-specific Reality Composer Pro plugins, custom components, systems, and ScriptGraph nodes.
+- [Iterate your spatial scenes faster with Reality Composer Pro 3](https://developer.apple.com/videos/play/wwdc2026/280/) — Covers faster scene iteration with content authoring, visual effects, lighting, interactivity, and AI-assisted editor workflows.
+- [Design no-code games with Reality Composer Pro 3](https://developer.apple.com/videos/play/wwdc2026/252/) — Shows how ScriptGraph can build no-code 3D interactions, animations, and SwiftUI-backed UI moments for apps and games.
+- [Design immersive environments for visionOS apps and the spatial web](https://developer.apple.com/videos/play/wwdc2026/234/) — Covers design principles and production workflows for photoreal immersive environments in apps, websites, and SharePlay.
+- [Explore immersive website environments in visionOS](https://developer.apple.com/videos/play/wwdc2026/320/) — Shows how the immersive web API can transition inline model content into virtual environments on Apple Vision Pro.
+- [Get started with the HTML Model Element](https://developer.apple.com/videos/play/wwdc2026/215/) — Introduces interactive 3D content on the web with the HTML model element across Apple platforms including visionOS.
+
 ### Apple Samples
 
 #### 2023 and 2024
