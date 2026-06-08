@@ -169,7 +169,7 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Building a guessing game for visionOS](https://developer.apple.com/documentation/groupactivities/building-a-guessing-game-for-visionos) — Creates a team-based SharePlay game using spatial Persona placement.
 - [Creating a multiview video playback experience in visionOS](https://developer.apple.com/documentation/avkit/creating-a-multiview-video-playback-experience-in-visionos) — Builds a multiview video interface for visionOS.
 
-#### 2025 and later
+#### 2025
 
 - [Canyon Crosser: Building a volumetric hike-planning app](https://developer.apple.com/documentation/visionOS/canyon-crosser-building-a-volumetric-hike-planning-app) — Builds a volumetric planning app with maps and terrain.
 - [Connecting iPadOS and visionOS apps over the local network](https://developer.apple.com/documentation/visionOS/connecting-ipados-and-visionos-apps-over-the-local-network) — Builds an iPadOS companion app that controls a visionOS experience.
@@ -193,6 +193,14 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Rendering stereoscopic video with RealityKit](https://developer.apple.com/documentation/realitykit/rendering-stereoscopic-video-with-realitykit) — Renders stereoscopic video with RealityKit.
 - [Animating hand models in visionOS](https://developer.apple.com/documentation/visionos/animating-hand-models-in-visionos) — Animates virtual hand models from tracked hand data.
 - [Integrating virtual objects with your environment](https://developer.apple.com/documentation/realitykit/integrating-virtual-objects-with-your-environment) — Blends virtual objects with real-world surroundings.
+
+#### WWDC26
+
+- [Manipulating models with RealityKit](https://developer.apple.com/documentation/RealityKit/manipulating-models-with-realitykit) — Interacts with detailed 3D models using manipulation and clipping controls on visionOS 27.
+- [Mixing spatial music](https://developer.apple.com/documentation/RealityKit/mixing-spatial-music) — Previews ray-traced reverb by adjusting a spatialized multitrack audio mix in an immersive scene on visionOS 27.
+- [Enriching your text in text views](https://developer.apple.com/documentation/UIKit/enriching-your-text-in-text-views) — Demonstrates TextKit improvements for line numbers, section collapsing, inline attachments, exclusion paths, and text lists with visionOS 27 support.
+- [Processing Apple Immersive Video with foveation](https://developer.apple.com/documentation/ImmersiveMediaSupport/processing-apple-immersive-video-with-foveation) — Applies foveation to Apple Immersive Video content for visionOS 27 immersive-media workflows.
+- [Working with content from your Mac app using Spatial Preview](https://developer.apple.com/documentation/SpatialPreview/working-with-content-from-your-mac-app-using-spatial-preview) — Sends documents and 3D content live from a Mac app to Apple Vision Pro with the Spatial Preview framework.
 
 ## Open Source
 
