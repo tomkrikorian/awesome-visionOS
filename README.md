@@ -265,7 +265,8 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [KSPlayer](https://github.com/kingslay/KSPlayer) — Plays video with AVPlayer and FFmpeg across Apple platforms.
 - [HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) — Streams camera and microphone media over RTMP and SRT.
 - [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) — Embeds YouTube playback in Swift apps across Apple platforms.
-- [I/O](https://github.com/comdigis-community/IO) - A multiplatform spatial audio engine written in Swift.
+- [I/O](https://github.com/comdigis-community/IO) — A multiplatform spatial audio engine written in Swift.
+- [PersonaCam](https://github.com/robomex/PersonaCam) — Adds a head-anchored Persona facecam for recording Apple Vision Pro demos.
 
 #### Build & Tooling
 
