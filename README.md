@@ -401,6 +401,8 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) — Curates Swift libraries, frameworks, and tools.
 - [Awesome iOS](https://github.com/vsouza/awesome-ios) — Collects iOS libraries, tools, and learning resources.
 - [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit) — Curates ARKit projects, libraries, and tutorials.
+- [Awesome VR](https://github.com/danielcamposramos/awesome-vr) — Covers VR headsets, open runtimes, standards and the platforms that shut down.
+- [Awesome AR](https://github.com/danielcamposramos/awesome-ar) — Collects AR optics, SLAM tracking, SDKs and standards.
 
 ## Contributing
 
