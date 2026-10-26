@@ -285,6 +285,7 @@ A curated list of resources for developers building visionOS apps, spatial inter
 - [MLX](https://github.com/ml-explore/mlx-swift) — Provides Swift APIs for Apple's MLX array framework.
 - [WhisperKit](https://github.com/argmaxinc/WhisperKit) — Provides on-device speech recognition for Apple silicon.
 - [GPTalks](https://github.com/SilverMarcs/GPTalks) — Demonstrates a multiplatform ChatGPT API client written in SwiftUI.
+- [WishKit](https://github.com/wishkit/wishkit-ios) — Adds an in-app feature request board to Apple platform apps where users submit and vote on features.
 
 ### Tools
 
